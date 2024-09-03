@@ -1,2 +1,3 @@
-# StackLayerMM
-This repository  contains all necessary file for generating Mueller matrix of the stacked layer
+# smn-thesis
+Matlab code for models developed in "Coherence in Polarimetry"
+See documentation.pdf
